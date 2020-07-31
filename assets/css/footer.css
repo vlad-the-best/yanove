@@ -1,0 +1,73 @@
+/* footer */
+footer {
+    font-family: 'Manrope';
+    z-index:100;
+    padding: 53px;
+}
+.footer-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer-head-logo-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer-login-separator {
+    background-color: #E5EEF1;
+    height: 45px;
+    width: 1px;
+    margin: 0 24px 0 46px;
+}
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 61px 0 55px;
+}
+.footer-menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 472px;
+}
+.footer-menu a {
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 100%;
+    text-decoration: none;
+    color: #1E3A5F;
+}
+.footer-foot {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 27px;
+    border-top:1px solid #E0E8EB;
+}
+.footer-terms_policy{
+    width: 269px;
+    display: flex;
+    justify-content: space-between;
+}
+.footer-terms_policy a {
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 100%;
+    text-decoration: none;
+    color: #1E3A5F;
+}
+.footer-copyright {
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 100%;
+    color: #1E3A5F;
+}
